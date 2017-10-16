@@ -947,5 +947,111 @@ footer ul li a {
     font-size: 13px;
 }
 
+.services_section_block {
+    overflow: hidden;
+}
+
+.services_section_block > div.three_block:first-child {
+    border: none;
+}
+
+.services_section_block > div.three_block {
+    border-top: 1px dotted #ccc;
+    padding: 20px 0 0 0;
+    overflow: hidden;
+}
+
+.services_section_item {
+    width: 32%;
+    margin: 0 2% 20px 0;
+    float: left;
+    position: relative;
+}
+
+.services_section_item a.animation_img {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0 0 10px 0;
+}
+
+a.animation_img .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    visibility: hidden;
+    z-index: 11;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    transition: all 0.3s;
+}
+
+.services_section_item img {
+    width: 100%;
+    display: block;
+    height: 200px;
+    transition: transform 0.2s ease-in;
+}
+
+a.animation_img .link {
+    position: absolute;
+    top: -50px;
+    right: -50px;
+    background: #19b7f1;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    font-size: 25px;
+    color: #fff;
+    z-index: 12;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    border-radius: 0 0 0 25px;
+    background-clip: padding-box;
+    transition: all 0.3s;
+    text-align: center;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.services_section_item .description {
+    margin: 0 0 10px 0;
+}
+
+.services_section_item .description h2 {
+    font-size: 18px;
+    font-family: PTSansBold;
+    margin: 0 0 10px 0;
+    text-transform: none;
+}
+
+.services_section_item .description h2 a {
+    color: #009de5;
+}
+
+.services_section_item .description div {
+    color: #4c4c4c;
+    font-size: 16px;
+}
+
+.services_section_item > p a {
+    color: #008fd2;
+    font-size: 16px;
+}
+
+.services_section_item:nth-child(3n+3) {
+    margin: 0 0 20px 0;
+}
+
+
 
 
