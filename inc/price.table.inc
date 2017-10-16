@@ -60,7 +60,7 @@
             <td class="column_3" >кв.м.</td>
             <td class="column_4 price" >700</td>
         </tr>
-        <tr>
+        <tr class="tr_table">
             <td colspan="4" class="table_title"><h2>Стены</h2></td>
         </tr>
         <tr>
@@ -172,7 +172,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="tr_table">
             <td colspan="4" class="table_title"><h2>Демонтажные работы</h2></td>
         </tr>
         <tr>
@@ -253,7 +253,7 @@
             <td >шт.</td>
             <td >1000</td>
         </tr>
-        <tr>
+        <tr class="tr_table">
             <td colspan="4" class="table_title"><h2>Монтажные работы</h2></td>
         </tr>
         <tr>
@@ -284,7 +284,7 @@
             <td >5</td>
             <td >Монтаж поворотных элементов канализации d 50/d100</td>
             <td >шт.</td>
-            <td >75/100</td>
+            <td >100</td>
         </tr>
         <tr>
             <td >6</td>
@@ -444,7 +444,7 @@
         </tr>
     </thead>
     <tr>
-        <td colspan="4" class="table_title"><h2>Демонтажные работы</h2></td>
+        <td class="tr_table" colspan="4" class="table_title"><h2>Демонтажные работы</h2></td>
     </tr>
     <tr>
         <td >1</td>
@@ -488,8 +488,8 @@
         <td >кв.м.</td>
         <td >200</td>
     </tr>
-    <tr>
-        <td colspan="4" class="table_title"><h2>Монтажные работы</h2></td>
+    <tr class="tr_table">
+        <td class="tr_table" colspan="4" class="table_title"><h2>Монтажные работы</h2></td>
     </tr>
     <tr>
         <td >1</td>
@@ -567,7 +567,7 @@
         <td >13</td>
         <td >оклейка торцов прямолинейных, криволинейных стеклохолстом</td>
         <td >п.м.</td>
-        <td >75/100</td>
+        <td >100</td>
     </tr>
     <tr>
         <td >14</td>

@@ -7,13 +7,18 @@
             var trs = elm.getElementsByTagName("tr");
             var j = 1;
             while (j < trs.length) {
-                if (trs[i].className == "table_title") {
-                    continue;S
+                if(trs.item(j).className === "tr_table") {
+                    j++;
+                    continue;
                 }
+
+
                 var td_1 = document.createElement("td");
                 td_1.setAttribute("class", "column_5");
-                td_1.setAttribute("data_id", i+"_"+j);
                 var input = document.createElement("input");
+                input.setAttribute("data_id", i+"_"+j);
+                var price = trs.item(j).getElementsByTagName("td").item(3).innerText.replace("от ", "");
+                input.setAttribute("data_price", price);
                 td_1.appendChild(input);
 
                 var td_2 = document.createElement("td");
@@ -45,8 +50,14 @@
             titles[i].setAttribute("colspan", 6);
             i++;
         }
+
+        $(".column_5").keyup(function(eventObject) {
+            var input=eventObject.target;
+            var price = input.getAttribute("data_price")*input.value;
+            $("#"+input.getAttribute("data_id")).text(price);
+        });
     });
 </script>
 <div class="calculator">
-<? include "price.table.inc"; ?>
+<?php include "price.table.inc"; ?>
 </div>

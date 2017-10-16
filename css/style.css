@@ -929,5 +929,23 @@ footer ul li a {
     padding: 10px 0;
 }
 
+.calculator table .column_5 {
+    width: 10%;
+}
+
+.calculator table .column_5 input {
+    width: 50px;
+    text-align: center;
+}
+
+.calculator table tbody td:last-child {
+    border-right: none;
+}
+
+.calculator table .column_6 {
+    width: 10%;
+    font-size: 13px;
+}
+
 
 
