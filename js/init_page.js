@@ -3,4 +3,9 @@ jQuery(document).ready(function ($) {
 
     $("h1").text(title);
     $("#page_name").text(title);
+
+    $("#send_report").click(function() {
+       location.href = "/contacts/";
+    });
+
 });

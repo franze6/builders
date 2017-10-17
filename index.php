@@ -13,6 +13,10 @@
     <script type="text/javascript">
         jQuery(document).ready(function ($) {
 
+            $("#send_report").click(function() {
+                location.href = "/contacts/";
+            });
+
             var jssor_1_options = {
                 $AutoPlay: 1,
                 $Align: 0,
@@ -161,7 +165,7 @@
                                 <div>
                                     <a href="mailto:remont@bk.ru" class="email_decoration">remont@bk.ru</a>						</div>
                             </div>
-                            <button>Оставить заявку</button>
+                            <button id="send_report">Оставить заявку</button>
                         </div>
                     </div>
                     <div class="mobile_header_search">
@@ -183,14 +187,11 @@
 
                     <li><a href="/calculator/">Калькулятор</a></li>
 
-                    <li><a href="/projects/">Проекты</a></li>
-
-                    <li><a href="/articles/">Статьи</a></li>
+                    <li><a href="/partners/">Наши партнеры</a></li>
 
                     <li><a href="/company/">Компания</a></li>
 
                     <li><a href="/contacts/">Контакты</a></li>
-
                 </ul>
             </nav>
         </header>
@@ -360,7 +361,6 @@
                 <div class="customer_reviews_center">
                     <h2>Отзывы наших клиентов</h2>
                     <div id="jssor_2" style="position:relative;margin:0 auto;top:0px;left:0px;width:1000px;height:187px;overflow:hidden;visibility:hidden;background-color:rgba(255,255,255,0);">
-                        <!-- Loading Screen -->
                         <div data-u="loading" class="jssorl-004-double-tail-spin" style="position:absolute;top:0px;left:0px;text-align:center;background-color:rgba(0,0,0,0.7);">
                             <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="/jssor/p_feedback/double-tail-spin.svg" />
                         </div>
@@ -378,7 +378,6 @@
                                 <div style="position:absolute;top:0px;left:505px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:center;padding:10px 10px 10px 10px;box-sizing:border-box;">Text</div>
                             </div>
                         </div>
-                        <!-- Bullet Navigator -->
                         <div data-u="navigator" class="jssorb052" style="position:absolute;bottom:12px;right:12px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
                             <div data-u="prototype" class="i" style="width:16px;height:16px;">
                                 <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
@@ -386,7 +385,6 @@
                                 </svg>
                             </div>
                         </div>
-                        <!-- Arrow Navigator -->
                         <div data-u="arrowleft" class="jssora102" style="width:50px;height:50px;top:50px;left:30px;" data-scale="0.75">
                             <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
                                 <circle class="c" cx="8000" cy="8000" r="6080"></circle>
@@ -434,7 +432,7 @@
                 <div class="footer_clear"></div>
                 <div class="footer_telephone">
                     <div class="footer_phone">7(495) 111-33-99</div>
-                    <p class="footer_telephone_request"><a href="#">Заказать звонок</a></p> <span>|</span> <p class="footer_telephone_application"><a href="#">Оставить заявку</a></p>
+                    <p class="footer_telephone_request"><a href="/contacts/">Заказать звонок</a></p> <span>|</span> <p class="footer_telephone_application"><a href="/contacts/">Оставить заявку</a></p>
                 </div>
             </div>
         </div>

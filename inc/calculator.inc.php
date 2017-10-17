@@ -12,7 +12,6 @@
                     continue;
                 }
 
-
                 var td_1 = document.createElement("td");
                 td_1.setAttribute("class", "column_5");
                 var input = document.createElement("input");

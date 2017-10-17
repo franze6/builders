@@ -29,7 +29,7 @@
                             <div>
                                 <a href="mailto:remont@bk.ru" class="email_decoration">remont@bk.ru</a>						</div>
                         </div>
-                        <button>Оставить заявку</button>
+                        <button id="send_report">Оставить заявку</button>
                     </div>
                 </div>
                 <div class="mobile_header_search">
@@ -51,14 +51,11 @@
 
                 <li><a href="/calculator/">Калькулятор</a></li>
 
-                <li><a href="/projects/">Проекты</a></li>
-
-                <li><a href="/articles/">Статьи</a></li>
+                <li><a href="/partners/">Наши партнеры</a></li>
 
                 <li><a href="/company/">Компания</a></li>
 
                 <li><a href="/contacts/">Контакты</a></li>
-
             </ul>
         </nav>
     </header>
@@ -122,7 +119,7 @@
                 <div class="footer_clear"></div>
                 <div class="footer_telephone">
                     <div class="footer_phone">7(495) 111-33-99</div>
-                    <p class="footer_telephone_request"><a href="#">Заказать звонок</a></p> <span>|</span> <p class="footer_telephone_application"><a href="#">Оставить заявку</a></p>
+                    <p class="footer_telephone_request"><a href="/contacts/">Заказать звонок</a></p> <span>|</span> <p class="footer_telephone_application"><a href="/contacts/">Оставить заявку</a></p>
                 </div>
             </div>
         </div>
