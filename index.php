@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ремонт</title>
+    <title>АВЕРС-СТРОЙ — профессиональный подход и доступные цены</title>
     <link href="css/style.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/favicon.ico">
@@ -159,7 +159,7 @@
                             </a>				</div>
                         <div class="header_contact">
                             <div class="header_phone">
-                                7(495) 111-33-99					</div>
+                                +7 (930) 783-68-40					</div>
                             <div class="header_email">
                                 <p><a href="#">Заказать звонок</a></p> |
                                 <div>
@@ -280,62 +280,42 @@
 
                     <div class="services_element">
                         <div>
-                            <a href="/services/62/" class="animation_img">
+                            <a href="/price/#tile_work" class="animation_img">
                                 <span class="overlay"></span>
-                                <img src="/img/projects/rebuild.jpg" alt="Ремонт квартир">
+                                <img src="/img/services/tile_work.jpg" alt="Плиточные работы" title="Плиточные работы" itemprop="image">
                                 <span class="link"><i class="fa fa-link"></i></span>
                             </a>
-                            <p><a href="/services/62/">Ремонт квартир</a></p>
+                            <p><a rel="bookmark" href="/price/#tile_work" itemprop="name">Плиточные работы</a></p>
                         </div>
                     </div>
                     <div class="services_element">
                         <div>
-                            <a href="/services/28/" class="animation_img">
+                            <a href="/price/#plumbing_work" class="animation_img">
                                 <span class="overlay"></span>
-                                <img src="/img/projects/other_work.jpg" alt="Другие ремонтные работы">
+                                <img src="/img/services/plumbing_work.jpg" alt="Другие ремонтные работы" title="Другие ремонтные работы" itemprop="image">
                                 <span class="link"><i class="fa fa-link"></i></span>
                             </a>
-                            <p><a href="/services/28/">Другие ремонтные работы</a></p>
+                            <p><a rel="bookmark" href="/price/#plumbing_work" itemprop="name">Сантехнические работы</a></p>
                         </div>
                     </div>
                     <div class="services_element">
                         <div>
-                            <a href="/services/27/" class="animation_img">
+                            <a href="/price/#footer_work" class="animation_img">
                                 <span class="overlay"></span>
-                                <img src="/img/projects/floors.jpg" alt="Натяжные потолки">
+                                <img src="/img/services/footer_work.jpg" alt="Натяжные потолки" title="Натяжные потолки" itemprop="image">
                                 <span class="link"><i class="fa fa-link"></i></span>
                             </a>
-                            <p><a href="/services/27/">Натяжные потолки</a></p>
+                            <p><a rel="bookmark" href="/price/#footer_work" itemprop="name">Потолочные работы</a></p>
                         </div>
                     </div>
                     <div class="services_element">
                         <div>
-                            <a href="/services/26/" class="animation_img">
+                            <a href="/price/#welding_work" class="animation_img">
                                 <span class="overlay"></span>
-                                <img src="/img/projects/layout.jpg" alt="Планировка">
+                                <img src="/img/services/welding_work.jpg" alt="Сварочные работы" title="Сварочные работы" itemprop="image">
                                 <span class="link"><i class="fa fa-link"></i></span>
                             </a>
-                            <p><a href="/services/26/">Планировка</a></p>
-                        </div>
-                    </div>
-                    <div class="services_element">
-                        <div>
-                            <a href="/services/25/" class="animation_img">
-                                <span class="overlay"></span>
-                                <img src="/img/projects/design_project.jpg" alt="Разработка дизайн-проекта">
-                                <span class="link"><i class="fa fa-link"></i></span>
-                            </a>
-                            <p><a href="/services/25/">Разработка дизайн-проекта</a></p>
-                        </div>
-                    </div>
-                    <div class="services_element">
-                        <div>
-                            <a href="/services/24/" class="animation_img">
-                                <span class="overlay"></span>
-                                <img src="/img/projects/rebuild_office.jpg" alt="Ремонт офисный помещений">
-                                <span class="link"><i class="fa fa-link"></i></span>
-                            </a>
-                            <p><a href="/services/24/">Ремонт офисный помещений</a></p>
+                            <p><a rel="bookmark" href="/price/#welding_work" itemprop="name">Сварочные работы</a></p>
                         </div>
                     </div>
                 </div>
@@ -431,7 +411,7 @@
                 </div>
                 <div class="footer_clear"></div>
                 <div class="footer_telephone">
-                    <div class="footer_phone">7(495) 111-33-99</div>
+                    <div class="footer_phone">+7 (930) 783-68-40</div>
                     <p class="footer_telephone_request"><a href="/contacts/">Заказать звонок</a></p> <span>|</span> <p class="footer_telephone_application"><a href="/contacts/">Оставить заявку</a></p>
                 </div>
             </div>

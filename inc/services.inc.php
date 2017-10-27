@@ -46,4 +46,21 @@
             </div>
         </article>
     </div>
+    <div class="three_block">
+        <article class="services_section_item" itemscope="" itemtype="http://schema.org/Article">
+            <a href="/price/#welding_work" class="animation_img">
+                <span class="overlay"></span>
+                <img src="/img/services/welding_work.jpg" alt="Сварочные работы" title="Сварочные работы" itemprop="image">
+                <span class="link"><i class="fa fa-link"></i></span>
+            </a>
+            <div class="description">
+                <h2>
+                    <a rel="bookmark" href="/price/#welding_work" itemprop="name">Сварочные работы</a>
+                </h2>
+                <div itemprop="description">
+                    Просто отказываться от&nbsp;такого красивого, практичного и&nbsp;экологичного материала, как дерево, нерационально и&nbsp;неразумно.
+                </div>
+            </div>
+        </article>
+    </div>
 </div>

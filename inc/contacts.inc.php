@@ -1,16 +1,10 @@
 <script type="text/javascript" src="/js/ajax.js"></script>
 <div class="contact">
     <div class="contact_info">
-        <div class="contact_address contact_info_float">
-            <span class="fa icon_map_marker"></span>
-            <p>Адрес:<br>
-                <span>Москва, ул.Комарова 32, офис 3</span>
-            </p>
-        </div>
         <div class="contact_phone contact_info_float">
             <span class="fa icon_phone"></span>
             <p>Телефон:<br>
-                <span>+7 (918) 080-77-91</span>
+                <span>+7 (930) 783-68-40</span>
             </p>
         </div>
         <div class="contact_email contact_info_float">
@@ -38,13 +32,11 @@
             <label>ФИО:<span class="required_star">*</span>
                 <p>
                     <input name="name" type="text" required="required">
-                    <span class="fa icon_user"></span>
                 </p>
             </label>
             <label>Телефон:<span class="required_star">*</span>
                 <p>
                     <input name="phone" type="tel" required="required">
-                    <span class="fa icon_phone"></span>
                 </p>
             </label>
             <input type="submit" value="Отправить">

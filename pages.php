@@ -23,7 +23,7 @@
                         </a>				</div>
                     <div class="header_contact">
                         <div class="header_phone">
-                            7(495) 111-33-99					</div>
+                            +7 (930) 783-68-40					</div>
                         <div class="header_email">
                             <p><a href="#">Заказать звонок</a></p> |
                             <div>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="footer_clear"></div>
                 <div class="footer_telephone">
-                    <div class="footer_phone">7(495) 111-33-99</div>
+                    <div class="footer_phone">+7 (930) 783-68-40</div>
                     <p class="footer_telephone_request"><a href="/contacts/">Заказать звонок</a></p> <span>|</span> <p class="footer_telephone_application"><a href="/contacts/">Оставить заявку</a></p>
                 </div>
             </div>
