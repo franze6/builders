@@ -211,7 +211,7 @@
                         <span style="color: rgb(255, 255, 255); font-family: PTSansRegular; font-size: 18px; white-space: pre-wrap;">Косметический ремонт позволяет придать помещению совершенно новый облик. За счет использования свежих обоев, интересных дверей и необычного паркета любое жилище будет выглядеть совсем иначе.<br />Косметический ремонт вдохнет новую жизнь в вашу квартиру. Комплекс несложных отделочных работ украсит помещение без перепланировки и кардинальных изменений. При ремонте квартир самое главное — привнести что-то новое в общий вид жилища с минимальными затратами..
                         </span><br />
                     </div>
-                    <a href="/projects" target="_blank" style="display:block; position:absolute;top:335px;left:450px;width:305px;height:51px;z-index:0;mix-blend-mode:normal;border:3px solid #ffffff;border-radius:5px;font-size:24px;color:#ffffff;line-height:2;text-align:center;box-sizing:border-box;">Узнать подробнее<br />​
+                    <a href="/services/" target="_blank" style="display:block; position:absolute;top:335px;left:450px;width:305px;height:51px;z-index:0;mix-blend-mode:normal;border:3px solid #ffffff;border-radius:5px;font-size:24px;color:#ffffff;line-height:2;text-align:center;box-sizing:border-box;">Узнать подробнее<br />​
                     </a>
                 </div>
                 <div>
@@ -223,7 +223,7 @@
                     <div style="position:absolute;top:130px;left:78px;width:1044px;height:182px;z-index:0;font-family:PTSansRegular;font-size:14px;color:#ffffff;text-align:center;padding:30px 0px 0px 0px;box-sizing:border-box;">
                         <span style="color: rgb(255, 255, 255); font-family: PTSansRegular; font-size: 18px; text-align: center;">Косметический ремонт позволяет придать помещению совершенно новый облик. За счет использования свежих обоев, интересных дверей и необычного паркета любое жилище будет выглядеть совсем иначе. Косметический ремонт вдохнет новую жизнь в вашу квартиру. Комплекс несложных отделочных работ украсит помещение без перепланировки и кардинальных изменений. При ремонте квартир самое главное — привнести что-то новое в общий вид жилища с минимальными затратами.</span>
                     </div>
-                    <a href="/projects" target="_blank" style="display:block; position:absolute;top:335px;left:450px;width:305px;height:51px;z-index:0;mix-blend-mode:normal;border:3px solid #ffffff;border-radius:5px;font-size:24px;color:#ffffff;line-height:2;text-align:center;box-sizing:border-box;">Узнать подробнее<br />​
+                    <a href="/services/" target="_blank" style="display:block; position:absolute;top:335px;left:450px;width:305px;height:51px;z-index:0;mix-blend-mode:normal;border:3px solid #ffffff;border-radius:5px;font-size:24px;color:#ffffff;line-height:2;text-align:center;box-sizing:border-box;">Узнать подробнее<br />​
                     </a>
                 </div>
                 <a data-u="any" href="https://www.jssor.com" style="display:none">bootstrap slider</a>
