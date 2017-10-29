@@ -10,7 +10,7 @@
         <div class="contact_email contact_info_float">
             <span class="fa icon_email"></span>
             <p>E-mail: <br>
-                <span><a href="mailto:samovar-web@bk.ru">samovar-web@bk.ru</a></span>
+                <span><a href="mailto:avers.stroy.rzn@bk.ru">avers.stroy.rzn@bk.ru</a></span>
             </p>
         </div>
         <div class="contact_time contact_info_float">

@@ -593,7 +593,7 @@ footer ul {
 footer ul li {
     font-family: PTSansBold;
     float: left;
-    width: 12.5%;
+    width: 14.2%;
     text-align: center;
 }
 
@@ -1231,6 +1231,61 @@ a.animation_img .link {
 }
 
 
+.partners {
+    margin: 20px 0 0 0;
+}
+
+.partner_info {
+    float: left;
+    width: 35%;
+}
+
+
+.partner_info .fa {
+    width: 54px;
+    float: left;
+    height: 54px;
+    line-height: 32px;
+    text-align: center;
+    color: #fff;
+    font-size: 29px;
+    margin: 0 20px 0 0;
+    background: #00AEFF;
+}
+
+.partner_info p {
+    color: #2f383d;
+    font-size: 18px;
+}
+
+.partner_info span {
+    color: #666666;
+    font-size: 16px;
+}
+
+.partner_phone {
+    overflow: hidden;
+    margin: 0 0 20px 0;
+}
+
+.partner_email {
+    overflow: hidden;
+    margin: 0 0 20px 0;
+}
+
+.partner_site {
+    overflow: hidden;
+    margin: 0 0 20px 0;
+}
+
+.icon_site:before {
+    content: url("/img/contacts/site.png");
+
+}
+
+.partner_logo {
+    float: left;
+}
 
 
 

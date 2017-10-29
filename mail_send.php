@@ -1,6 +1,6 @@
 <?php
 
-$mail = "soldatmt2@mail.ru";
+$mail = "avers.stroy.rzn@bk.ru";
 
 if(isset($_GET['fio']) && isset($_GET['number'])) {
     if(mail($mail, "заказан звонок", $_GET['fio'] .

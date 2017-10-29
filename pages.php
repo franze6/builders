@@ -27,7 +27,7 @@
                         <div class="header_email">
                             <p><a href="#">Заказать звонок</a></p> |
                             <div>
-                                <a href="mailto:remont@bk.ru" class="email_decoration">remont@bk.ru</a>						</div>
+                                <a href="mailto:avers.stroy.rzn@bk.ru" class="email_decoration">avers.stroy.rzn@bk.ru</a>						</div>
                         </div>
                         <button id="send_report">Оставить заявку</button>
                     </div>
@@ -102,9 +102,7 @@
 
                 <li><a href="/calculator/">Калькулятор</a></li>
 
-                <li><a href="/projects/">Проекты</a></li>
-
-                <li><a href="/articles/">Статьи</a></li>
+                <li><a href="/partners/">Наши партнеры</a></li>
 
                 <li><a href="/company/">Компания</a></li>
 
