@@ -1,9 +1,163 @@
+<h2 class="table_top_title" id="tile_work">Штукатурные работы</h2>
+<h3 class="table_variant_title">Демонтажные работы</h3>
+<table>
+    <thead>
+    <tr>
+        <td class="column_1">№</td>
+        <td class="column_2"  >Наименование работ</td>
+        <td class="column_3"  >Ед.изм.</td>
+        <td class="column_4"  >Стоимость работ (руб)*</td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr></tr>
+        <tr>
+            <td>1</td>
+            <td>Демонтаж старой штукатурки</td>
+            <td>кв.м.</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Зачистка от старого покрытия: обоев со смывкой</td>
+            <td>кв.м.</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Зачистка от старого покрытия: побелки</td>
+            <td>кв.м.</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Зачистка от старого покрытия: краски</td>
+            <td>кв.м.</td>
+            <td>200</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3 class="table_variant_title">Монтажные работы</h3>
+
+<table>
+    <thead>
+    <tr>
+        <td class="column_1">№</td>
+        <td class="column_2"  >Наименование работ</td>
+        <td class="column_3"  >Ед.изм.</td>
+        <td class="column_4"  >Стоимость работ (руб)*</td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr></tr>
+        <tr>
+            <td>1</td>
+            <td>штукатурка стен толщиной до 2 см</td>
+            <td>кв.м.</td>
+            <td>300</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>штукатурка стен толщиной свыше 2 см</td>
+            <td>кв.м.</td>
+            <td>350</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>штукатурка стен отдельными местами до 30% поверхности</td>
+            <td>кв.м.</td>
+            <td>300</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Штукатурка стен криволинейной формы от</td>
+            <td>кв.м.</td>
+            <td>400</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Установка защитного уголка</td>
+            <td>п.м.</td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Штукатурка откосов (шириной до 400 мм) от</td>
+            <td>п.м.</td>
+            <td>180</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Шпатлевка стен под обои</td>
+            <td>кв.м.</td>
+            <td>200</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Шпатлевка стен под окраску</td>
+            <td>кв.м.</td>
+            <td>300</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Армирование стен малярной сеткой</td>
+            <td>кв.м.</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Армирование стен металической сеткой</td>
+            <td>кв.м.</td>
+            <td>120</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Грунтовка стен</td>
+            <td>кв.м.</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Грунтовка бетоконтактом</td>
+            <td>кв.м.</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Устройство перегородок из ГКЛ (ГКЛ 1 слой)</td>
+            <td>кв.м.</td>
+            <td>500</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Устройство перегородок из ГКЛ (ГКЛ 2 слоя)</td>
+            <td>кв.м.</td>
+            <td>600</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Оклейка стен обоями под покраску</td>
+            <td>кв.м.</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Оклейка стен обоями (без подбора рисунка)</td>
+            <td>кв.м.</td>
+            <td>125</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Оклейка стен обоями (с подбором рисунка)</td>
+            <td>кв.м.</td>
+            <td>150</td>
+        </tr>
+    </tbody>
+</table>
+
+
 <h2 class="table_top_title" id="tile_work">Плиточные работы</h2>
-
-
-
-
-
 <h3 class="table_variant_title">Демонтажные работы</h3>
 <table>
     <thead>
@@ -956,3 +1110,101 @@
     </tr>
     </tbody>
 </table>
+
+<h2 class="table_top_title" id="tile_work">Противопожарная безопасность</h2>
+<table>
+    <thead>
+    <tr>
+        <td class="column_1">№</td>
+        <td class="column_2"  >Наименование работ</td>
+        <td class="column_3"  >Ед.изм.</td>
+        <td class="column_4"  >Стоимость работ (руб)*</td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="tr_table">
+        <td colspan="4" class="table_title"><h2>Составление планов эвакуации</h2></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Формат листа А2</td>
+        <td>шт.</td>
+        <td>от 4000</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Формат листа А3</td>
+        <td>шт.</td>
+        <td>от 3000</td>
+    </tr>
+    <tr class="tr_table">
+        <td colspan="4" class="table_title"><h2>Монтаж противопожарной сигнализации</h2></td>
+    </tr>
+    <tr class="tr_table">
+        <td colspan="4" class="table_title">Расчет и монтаж противопожарной сигнализации производятся сугубо индивидуально для каждого заказчика</td>
+    </tr>
+    </tbody>
+</table>
+
+<h2 class="table_top_title" id="tile_work">Работы по утилизации отходов</h2>
+<table>
+    <thead>
+    <tr>
+        <td class="column_1">№</td>
+        <td class="column_2"  >Наименование работ</td>
+        <td class="column_3"  >Ед.изм.</td>
+        <td class="column_4"  >Стоимость работ (руб)*</td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="tr_table">
+        <td colspan="4" class="table_title"><h2>Услуги грузчиков</h2></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Бригада грузчиков (1-3 этаж)</td>
+        <td>чел./час.</td>
+        <td>400</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Бригада грузчиков (4-6 этаж)</td>
+        <td>чел./час.</td>
+        <td>450</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Бригада грузчиков (выше 7 этажа)</td>
+        <td>чел./час.</td>
+        <td>500</td>
+    </tr>
+    <tr class="tr_table">
+        <td colspan="4" class="table_title"><h2>Подача бункера</h2></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Вывоз мусора (8 куб.м.)</td>
+        <td>шт.</td>
+        <td>2800</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Вывоз мусора (20 куб.м.)</td>
+        <td>шт.</td>
+        <td>8500</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Вывоз мусора (30 куб.м.)</td>
+        <td>шт.</td>
+        <td>10500</td>
+    </tr>
+    <tr class="tr_table">
+        <td colspan="4" class="table_title">Цены на бункера утилизации уточняйте у наших партнеров</td>
+    </tr>
+    </tbody>
+</table>
+
+
+
+<div id="footnote">*Представленные цены не являются окончательными. Каждый заказ носит индивидуальный характер, и точную стоимость наших услуг для Вас Вы можете получить у наших специалистов, связавшись с нами по телефону.</div>
