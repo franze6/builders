@@ -50,13 +50,26 @@
             i++;
         }
 
+        var prices = new Array();
+
         $(".column_5").keyup(function(eventObject) {
             var input=eventObject.target;
             var price = input.getAttribute("data_price")*input.value;
+            prices[input.getAttribute("data_id")] = price;
             $("#"+input.getAttribute("data_id")).text(price);
+            final_price(prices);
         });
     });
+
+    function final_price(prices) {
+        var final = 0;
+        for (i in prices) {
+            final += prices[i];
+        }
+        $("#final_price").text(final);
+    }
 </script>
 <div class="calculator">
+    <div class="final_price_block">Итого: <p id="final_price">0</p> руб.</div>
 <?php include "price.table.inc"; ?>
 </div>

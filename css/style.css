@@ -1288,5 +1288,14 @@ a.animation_img .link {
     float: left;
 }
 
+#final_price {
+    display: inline-block;
+}
+
+.final_price_block {
+    color: #666666 ;
+    font-size: 18px;
+}
+
 
 
