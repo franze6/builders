@@ -6,6 +6,8 @@
     <title>АВЕРС-СТРОЙ — профессиональный подход и доступные цены</title>
     <link href="css/style.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
@@ -277,7 +279,16 @@
         <div class="wrapper_center">
             <div class="services">
                 <div class="services_center">
-
+                    <div class="services_element">
+                        <div>
+                            <a href="/price/#plaster_work" class="animation_img">
+                                <span class="overlay"></span>
+                                <img src="/img/services/plaster_work.jpg" alt="Штукатурные работы" title="Штукатурные работы" itemprop="image">
+                                <span class="link"><i class="fa fa-link"></i></span>
+                            </a>
+                            <p><a rel="bookmark" href="/price/#plaster_work" itemprop="name">Штукатурные работы</a></p>
+                        </div>
+                    </div>
                     <div class="services_element">
                         <div>
                             <a href="/price/#tile_work" class="animation_img">
@@ -318,6 +329,20 @@
                             <p><a rel="bookmark" href="/price/#welding_work" itemprop="name">Сварочные работы</a></p>
                         </div>
                     </div>
+                    <div class="services_element">
+                        <div>
+                            <a href="/price/#unfire_work" class="animation_img">
+                                <span class="overlay"></span>
+                                <img src="/img/services/unfire_work.jpg" alt="Противопожарная безопасность" title="Противопожарная безопасность" itemprop="image">
+                                <span class="link"><i class="fa fa-link"></i></span>
+                            </a>
+                            <p><a rel="bookmark" href="/price/#unfire_work" itemprop="name">Противопожарная безопасность</a></p>
+                        </div>
+                    </div>
+                    <div id="continue_link">
+                        <p><a rel="bookmark" href="/services/" itemprop="name">Посмотреть еще</a></p>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -344,16 +369,28 @@
                         </div>
                         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1000px;height:187px;overflow:hidden;">
                             <div>
-                                <div style="position:absolute;top:0px;left:0px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:center;padding:10px 10px 10px 10px;box-sizing:border-box;">Text</div>
-                                <div style="position:absolute;top:0px;left:505px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:center;padding:10px 10px 10px 10px;box-sizing:border-box;">Text</div>
+                                <div style="position:absolute;top:0px;left:0px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align: left;padding:10px 10px 10px 10px;box-sizing:border-box;"><p>
+                                        Все классно,безумно довольна бригадой рабочих, зашпаклевали и отштукатурили очень хорошо,теперь мой домик как новенький,дай бог вам успехов!
+                                    </p><p style="position: absolute; top: 80%; font-family: PTSansBold; font-style: oblique;">Кулешова Анастасия</p></div>
+                                <div style="position:absolute;top:0px;left:505px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:left;padding:10px 10px 10px 10px;box-sizing:border-box;">
+                                    <p>Делала ремонт в ванной комнате,ребята очень хорошо справились со своей работой,уложили плитку просто супер.Спасибо вам большое!</p>
+                                    <p style="position: absolute; top: 80%; font-family: PTSansBold; font-style: oblique;">Алексеевая Дарья</p></div>
                             </div>
                             <div>
-                                <div style="position:absolute;top:0px;left:0px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:center;padding:10px 10px 10px 10px;box-sizing:border-box;">Text</div>
-                                <div style="position:absolute;top:0px;left:505px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:center;padding:10px 10px 10px 10px;box-sizing:border-box;">Text</div>
+                                <div style="position:absolute;top:0px;left:0px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align: left;padding:10px 10px 10px 10px;box-sizing:border-box;">
+                                    <p>Обращался к данным ребятам по потолочным работам,не ожидал,что так быстро и качественно сделают свою работу,рекомендую!</p>
+                                    <p style="position: absolute; top: 80%; font-family: PTSansBold; font-style: oblique;">Андрусяк Кирилл</p></div>
+                                <div style="position:absolute;top:0px;left:505px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:left;padding:10px 10px 10px 10px;box-sizing:border-box;">
+                                    <p>Долго не мог найти себе специалистов по отделочным работам,посоветовали этих ребят,выполнили просто на ура, очень доволен работой.</p>
+                                    <p style="position: absolute; top: 80%; font-family: PTSansBold; font-style: oblique;">Титов Антон</p></div>
                             </div>
                             <div>
-                                <div style="position:absolute;top:0px;left:0px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:center;padding:10px 10px 10px 10px;box-sizing:border-box;">Text</div>
-                                <div style="position:absolute;top:0px;left:505px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:center;padding:10px 10px 10px 10px;box-sizing:border-box;">Text</div>
+                                <div style="position:absolute;top:0px;left:0px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align: left;padding:10px 10px 10px 10px;box-sizing:border-box;">
+                                    <p>Стояла задача по ремонту комнаты,наткнулась на данную компанию,созвонилась и решилась довериться им,я так довольна давно не была,очень круто и качественно сделали свою работу.</p>
+                                    <p style="position: absolute; top: 80%; font-family: PTSansBold; font-style: oblique;">Юдина Лера</p></div>
+                                <div style="position:absolute;top:0px;left:505px;width:495px;height:147px;z-index:0;border:1px solid #ccc;border-radius:3px;font-size:20px;color:#000000;text-align:left;padding:10px 10px 10px 10px;box-sizing:border-box;">
+                                    <p>Решил сделать ремонт в квартире,обратился к этим специалистам,после увиденного результата был только удивлен,очень качественно работают,буду рекомендовать друзьям.</p>
+                                    <p style="position: absolute; top: 80%; font-family: PTSansBold; font-style: oblique;">Еремин Алексей</p></div>
                             </div>
                         </div>
                         <div data-u="navigator" class="jssorb052" style="position:absolute;bottom:12px;right:12px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
@@ -363,13 +400,13 @@
                                 </svg>
                             </div>
                         </div>
-                        <div data-u="arrowleft" class="jssora102" style="width:50px;height:50px;top:50px;left:30px;" data-scale="0.75">
+                        <div data-u="arrowleft" class="jssora102" style="width:50px;height:50px;top:50px;left:5px;" data-scale="0.75">
                             <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
                                 <circle class="c" cx="8000" cy="8000" r="6080"></circle>
                                 <polygon class="a" points="8789.5,4902.8 8789.5,5846.4 6801.7,8000 8789.5,10253.6 8789.5,11097.2 5930.5,8000 "></polygon>
                             </svg>
                         </div>
-                        <div data-u="arrowright" class="jssora102" style="width:50px;height:50px;top:50px;right:30px;" data-scale="0.75">
+                        <div data-u="arrowright" class="jssora102" style="width:50px;height:50px;top:50px;right:5px;" data-scale="0.75">
                             <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
                                 <circle class="c" cx="8000" cy="8000" r="6080"></circle>
                                 <polygon class="a" points="7210.5,4902.8 7210.5,5846.4 9198.3,8000 7210.5,10253.6 7210.5,11097.2 10069.5,8000 "></polygon>

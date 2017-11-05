@@ -1,4 +1,4 @@
-<h2 class="table_top_title" id="tile_work">Штукатурные работы</h2>
+<h2 class="table_top_title" id="plaster_work">Штукатурные работы</h2>
 <h3 class="table_variant_title">Демонтажные работы</h3>
 <table>
     <thead>
@@ -1111,7 +1111,7 @@
     </tbody>
 </table>
 
-<h2 class="table_top_title" id="tile_work">Противопожарная безопасность</h2>
+<h2 class="table_top_title" id="unfire_work">Противопожарная безопасность</h2>
 <table>
     <thead>
     <tr>
@@ -1146,7 +1146,7 @@
     </tbody>
 </table>
 
-<h2 class="table_top_title" id="tile_work">Работы по утилизации отходов</h2>
+<h2 class="table_top_title" id="recycling">Работы по утилизации отходов</h2>
 <table>
     <thead>
     <tr>

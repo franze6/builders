@@ -1238,7 +1238,8 @@ a.animation_img .link {
 
 .partner_info {
     float: left;
-    width: 35%;
+    width: 70%;
+    margin-left: 10px;
 }
 
 
@@ -1286,6 +1287,7 @@ a.animation_img .link {
 
 .partner_logo {
     float: left;
+    width: 250px;
 }
 
 #final_price {
@@ -1301,6 +1303,24 @@ a.animation_img .link {
     color: #00aeff;
     font-size: 14px;
  }
+
+.single_block {
+
+}
+
+#continue_link {
+    width: 32%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.partner {
+    float: left;
+    width: 100%;
+    margin: 0 2% 40px 0;
+    display: block;
+}
 
 
 

@@ -11,7 +11,7 @@
                     <a rel="bookmark" href="/price/#plaster_work" itemprop="name">Штукатурные работы</a>
                 </h2>
                 <div itemprop="description">
-                    Просто отказываться от&nbsp;такого красивого, практичного и&nbsp;экологичного материала, как дерево, нерационально и&nbsp;неразумно.
+                    Профессионалы своего дела выполнят все виды штукатурных работ любой сложности,гарантировано высокое качество.
                 </div>
             </div>
         </article>
@@ -26,14 +26,14 @@
                     <a rel="bookmark" href="/price/#tile_work" itemprop="name">Плиточные работы</a>
                 </h2>
                 <div itemprop="description">
-                    Просто отказываться от&nbsp;такого красивого, практичного и&nbsp;экологичного материала, как дерево, нерационально и&nbsp;неразумно.
+                    Плиточники с большим опытом работ выполнят работу любой сложности, в кратчайшие сроки и высокого качества/
                 </div>
             </div>
         </article>
         <article class="services_section_item" itemscope="" itemtype="http://schema.org/Article">
             <a href="/price/#plumbing_work" class="animation_img">
                 <span class="overlay"></span>
-                <img src="/img/services/plumbing_work.jpg" alt="Другие ремонтные работы" title="Другие ремонтные работы" itemprop="image">
+                <img src="/img/services/plumbing_work.jpg" alt="Сантехнические работы" title="Сантехнические работы" itemprop="image">
                 <span class="link"><i class="fa fa-link"></i></span>
             </a>
             <div class="description">
@@ -41,7 +41,7 @@
                     <a rel="bookmark" href="/price/#plumbing_work" itemprop="name">Сантехнические работы</a>
                 </h2>
                 <div itemprop="description">
-                    Просто отказываться от&nbsp;такого красивого, практичного и&nbsp;экологичного материала, как дерево, нерационально и&nbsp;неразумно.
+                    Все виды сантехнических работ выполняет мастер быстро и качественно,большой опыт работ.Помощь в закупке материалов.
                 </div>
             </div>
         </article>
@@ -50,7 +50,7 @@
         <article class="services_section_item" itemscope="" itemtype="http://schema.org/Article">
             <a href="/price/#footer_work" class="animation_img">
                 <span class="overlay"></span>
-                <img src="/img/services/footer_work.jpg" alt="Сварочные работы" title="Сварочные работы" itemprop="image">
+                <img src="/img/services/footer_work.jpg" alt="Потолочные работы" title="Потолочные работы" itemprop="image">
                 <span class="link"><i class="fa fa-link"></i></span>
             </a>
             <div class="description">
@@ -58,7 +58,7 @@
                     <a rel="bookmark" href="/price/#footer_work" itemprop="name">Потолочные работы</a>
                 </h2>
                 <div itemprop="description">
-                    Просто отказываться от&nbsp;такого красивого, практичного и&nbsp;экологичного материала, как дерево, нерационально и&nbsp;неразумно.
+                    Наши опытные специалисты на высшем уровне выполнят любой объем работы. Мы делаем красивые потолки и гарантируем высокое качество работы.
                 </div>
             </div>
         </article>
@@ -73,7 +73,7 @@
                     <a rel="bookmark" href="/price/#welding_work" itemprop="name">Сварочные работы</a>
                 </h2>
                 <div itemprop="description">
-                    Просто отказываться от&nbsp;такого красивого, практичного и&nbsp;экологичного материала, как дерево, нерационально и&nbsp;неразумно.
+                    Нашим мастером сварщиком выполняются все виды работ любого уровня сложности. Любой вид работ будет выполнен на высшем уровне.
                 </div>
             </div>
         </article>
@@ -88,7 +88,7 @@
                     <a rel="bookmark" href="/price/#unfire_work" itemprop="name">Противопожарная безопасность</a>
                 </h2>
                 <div itemprop="description">
-                    Просто отказываться от&nbsp;такого красивого, практичного и&nbsp;экологичного материала, как дерево, нерационально и&nbsp;неразумно.
+                    Мастера в своем деле с большим опытом, быстро и грамотно выполнят работу по вашим просьбам,качество гарантируется.
                 </div>
             </div>
         </article>
@@ -105,7 +105,7 @@
                     <a rel="bookmark" href="/price/#recycling" itemprop="name">Работы по утилизации отходов</a>
                 </h2>
                 <div itemprop="description">
-                    Просто отказываться от&nbsp;такого красивого, практичного и&nbsp;экологичного материала, как дерево, нерационально и&nbsp;неразумно.
+                    Бригада грузчиков профессионально выполнят свою работу и утилизируют ваш мусор быстро и чисто.
                 </div>
             </div>
         </article>
